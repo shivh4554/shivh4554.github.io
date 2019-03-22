@@ -1,0 +1,5 @@
+C:\Users\ALZ038\Desktop\Shivanna Practice\TaskImage\TaskImage\bin\TaskImage.dll.config
+C:\Users\ALZ038\Desktop\Shivanna Practice\TaskImage\TaskImage\bin\TaskImage.dll
+C:\Users\ALZ038\Desktop\Shivanna Practice\TaskImage\TaskImage\bin\TaskImage.pdb
+C:\Users\ALZ038\Desktop\Shivanna Practice\TaskImage\TaskImage\obj\Debug\TaskImage.dll
+C:\Users\ALZ038\Desktop\Shivanna Practice\TaskImage\TaskImage\obj\Debug\TaskImage.pdb
